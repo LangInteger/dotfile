@@ -2,6 +2,9 @@
 
 ## .spacemacs
 
+- Step 1: clone spacemacs via `git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d`
+- Step 2: make a soft link via `ln -s path/to/this/repo/.spacemacs ~/.spacemacs`
+
 Configuration file for [spacemacs](https://spacemacs.org), should be placed in `~/` directory.
 
 ### Customization
